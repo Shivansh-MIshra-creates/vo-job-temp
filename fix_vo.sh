@@ -11,10 +11,11 @@ V=/home/vo/venv/bin
 $V/pip install -q --upgrade pip setuptools wheel
 # Python 3.12: force prebuilt wheels only — never build from source
 $V/pip install -q --only-binary=:all: "numpy>=1.26" --retries 10 --timeout 120 || { echo "numpy FAILED"; exit 1; }
-echo "[fix] installing torch (CPU)..."
-$V/pip install -q --only-binary=:all: torch torchaudio --index-url https://download.pytorch.org/whl/cpu --retries 10 --timeout 300 || \
-  { echo "[fix] CPU index failed, trying default PyPI..."; $V/pip install -q --only-binary=:all: torch torchaudio --retries 10 --timeout 300 || { echo "torch FAILED"; exit 1; }; }
-$V/pip install -q --only-binary=:all: chatterbox-tts transformers==4.56.2 tokenizers librosa soundfile --retries 10 --timeout 300 || { echo "deps FAILED"; exit 1; }
+echo "[fix] installing torch 2.6.0 (CPU, matches chatterbox-tts pin)..."
+$V/pip install -q --only-binary=:all: torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu --retries 10 --timeout 300 || \
+  { echo "[fix] CPU index failed, trying default PyPI..."; $V/pip install -q --only-binary=:all: torch==2.6.0 torchaudio==2.6.0 --retries 10 --timeout 300 || { echo "torch FAILED"; exit 1; }; }
+# chatterbox-tts pins transformers==5.2.0 itself — do NOT pin transformers here
+$V/pip install -q --only-binary=:all: chatterbox-tts tokenizers librosa soundfile --retries 10 --timeout 300 || { echo "deps FAILED"; exit 1; }
 $V/python -c "import torch, chatterbox.tts; print('imports OK')" || { echo "IMPORT CHECK FAILED"; exit 1; }
 echo "[fix] downloading weights (~3GB)..."
 mkdir -p $VO/weights && cd $VO/weights
