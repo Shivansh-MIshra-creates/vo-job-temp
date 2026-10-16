@@ -1,0 +1,179 @@
+[SCENE]
+
+Now your boss calls you in. It's not because you messed up. Your numbers were fine last month.
+
+The meeting lasts eleven minutes. None of it is about you. It's about a line. The software costs three dollars a day. You cost thirty thousand a year, plus a chair, plus a laptop, plus the Christmas party.
+
+For the first time in your life, you're not being compared to a person. You're being compared to a price.
+
+Here's what happens if AI automates every job.
+
+Now stretch that price across everything. One company is a rounding error. This hits every company on Earth. Every payroll on the planet, at once.
+
+The call center, the truck, the hospital, the classroom. In the order it actually happens, because the order is the story.
+
+There's one job at the end that survives all of it. It's the last one standing, and almost everybody walks right past it.
+
+But your job is the least of it. This is already happening.
+
+AI arrived like a spreadsheet. Chatbots got cheap. Then they got good. Then they got cheap again. Every twelve months, the cost of one thinking task fell by a factor of ten. A radiologist reading a scan. A paralegal summarizing a contract. Same work, a tenth of the price, then a hundredth. That's not science fiction. That's a cost curve. And a cost curve doesn't negotiate.
+
+Nobody lays people off because they hate them. They lay people off because a number moved. The number moved.
+
+[SCENE]
+
+Now look at who goes first. If you typed for a living, you were the training data.
+
+Customer support went before anybody noticed. Every chat you've ever had with a help desk got logged, tagged, and fed into a model. Ten years of tickets became a machine that answers tickets. It handles eleven conversations at once. It doesn't take weekends. And it never snaps at a customer who's already furious.
+
+Data entry went next, and nobody mourned it. Two hundred people in a Manila office doing what a model does in a tenth of a second.
+
+Telemarketing was third. That one was almost funny. The thing that annoyed you for thirty years got replaced by a thing that annoys you for free. Somewhere, four hundred headsets went quiet in one quarter.
+
+Then junior coders. This is the one that stung. The industry kept saying you can't automate software. Then it turned out you can automate the easy eighty percent of it. Which was the part juniors did. Copying patterns. Chasing boring bugs.
+
+Why these four first? Because their work was already typed and repeatable. If a machine can read it, a machine can learn it. And once it learns it, it never forgets.
+
+That's the whole test. Anything with a log file went early.
+
+[SCENE]
+
+But here's the problem. Software can't stock a shelf. So the robots came for your hands.
+
+Robots used to be expensive and stupid. A factory arm cost fifty thousand dollars, weighed half a ton, and had to be bolted to the floor. It couldn't tell a tomato from a tennis ball.
+
+Then the price of a humanoid fell to six thousand dollars. That's a used car. And it doesn't need a salary or a bathroom break. It works twenty hours a day and gets smarter every month, because every other robot on Earth is teaching it.
+
+So do the math the way a business owner does. A delivery driver costs about thirty thousand dollars a year. A warehouse picker, about the same. A farmhand, less in most of the world. The robot costs six thousand once.
+
+Now watch the loop close. AI designs the robots. Robots build the parts. AI runs a million tests overnight and the next version comes out cheaper. Then cheaper again.
+
+Trucking went first in the spreadsheets, even if it went last on the road. Then picking, then packing, then cleaning, then building sites, then harvests. Nobody decided to replace people. The person doing the math just looked at a spreadsheet, and the spreadsheet said yes.
+
+[SCENE]
+
+Meanwhile, the people who thought they were safe started updating their résumés.
+
+Accountants went quietly. The partners kept their corner offices. The fifty people in the back room doing reconciliations didn't. AI read every receipt, matched every invoice, and closed the books in an afternoon instead of three weeks.
+
+Analysts went after that. If your job was turning a spreadsheet into a slide deck, the slide deck stopped needing you. Banks cut the bottom of the pyramid. Consultancies. Startups. The work didn't vanish. The entry level did.
+
+Radiologists were supposed to be untouchable. Ten years of training, a specialty, a waiting list. Then a model read a hundred thousand scans and started catching things the night shift missed, often enough that hospitals stopped arguing about it.
+
+Paralegals, then junior lawyers. Contract review, discovery. Twelve hundred documents an hour.
+
+Teachers came apart in pieces. The lesson plans first. Then the marking. Then the tutoring, one kid at a time, at any hour, in any language, endlessly patient. There was still a person in the classroom. One, doing a job that used to take five.
+
+Doctors broke in the same order. The paperwork, then the triage, then the diagnosis, then the surgery, with a machine holding the instruments steadier than any hand.
+
+No collar was safe. Everybody had the line in the wrong place. Collar color had nothing to do with it. Repeatable was the whole test.
+
+[SCENE]
+
+Okay, so everything gets cheaper. That's the good news.
+
+A haircut drops from two hundred rupees to twenty. The barber didn't get worse. The scissors have learned from ten million haircuts, and the shop pays rent on one chair instead of three.
+
+A full meal, cooked and delivered, lands at thirty rupees. Protein, vegetables, a box, a scooter that drives itself, and a kitchen running at a hundred times the volume of the place down your street. Restaurants stop being restaurants. They become vending machines with a menu.
+
+Taxis cost less than the bus. Construction gets so cheap that a two-bedroom flat costs less than the land under it. Tutoring, dentistry, legal advice, all of it slides toward free.
+
+Cheap feels like a gift for about six months. Then you notice something. Everything is getting cheaper because nobody has any money. Prices are falling because paychecks are falling. And paychecks are falling faster.
+
+And that's still not the worst part. The money is next.
+
+Because the price of a thing is only half the story. The other half is who's still getting paid.
+
+[SCENE]
+
+Now the haircut is twenty rupees. The meal is thirty. Rice, dal, two rotis, a piece of fish. You tip the machine one rupee because it feels rude not to.
+
+For a week, it's the best thing that's ever happened to your family.
+
+Then the trap closes.
+
+Cheap prices don't come from nowhere. They come from cheap labor. And when labor costs almost nothing, your paycheck costs almost nothing too. That thirty-rupee meal is affordable right up until the day you don't have thirty rupees.
+
+Prices fell 5% last year. Wages fell 15%. You didn't get richer. You just drowned slower.
+
+[SCENE]
+
+But cheap is useless without a paycheck. So governments start experimenting with your survival.
+
+Finland went first. In 2017, they picked 2,000 unemployed people and handed them €560 a month. No forms. No conditions. Just money, whether they worked or not.
+
+Everybody expected them to stop working. They didn't. They reported less stress, better health, more trust. People wanted to work. They just needed the falling to stop.
+
+Kenya went bigger. A charity called GiveDirectly picked 200 villages, about 20,000 people, and paid some of them $22 a month for twelve years. The longest cash experiment ever run. They bought goats. They fixed roofs. They didn't quit.
+
+Stockton, California, gave 125 residents $500 a month. Full-time work among them went from 28% to 40%.
+
+So it works. The problem is paying for it.
+
+Bill Gates floated a robot tax. If a machine takes your job, the company that owns the machine pays what you used to pay. South Korea quietly cut its automation tax break in 2017. The European Union debated the same idea and killed it in one vote.
+
+Because the robots don't vote. The companies that own them do.
+
+And that's where the world splits. Denmark, Norway, Germany have the tax base, the welfare systems, the sovereign funds. They can pay people to live. Nigeria, Pakistan, Bangladesh run on cash work, off the books, in markets and fields. You can't tax a robot in a country that can't collect income tax from a human.
+
+But beneath the surface, something much stranger is breaking.
+
+[SCENE]
+
+Now fast-forward to a Tuesday. You wake up with nothing to clock into.
+
+Your alarm still goes off at 6:15. That's the cruel part. Your body doesn't know there's nowhere to be. You make coffee. You sit down. The day is a room with no doors.
+
+Your marriage changes first. The money fights stop. That sounds like relief. It isn't. The money fights were how the two of you talked. Now there's nothing to negotiate, so you argue about the shape of the day. Who takes the kids. Which one of you is allowed to be bored out loud.
+
+Then your kid asks why he's still studying. He isn't joking. His teacher is a screen, and the screen knows more than any teacher who ever lived. So what's trigonometry for? What's medical school for, when a machine reads an X-ray better than a radiologist, never gets tired, never misses a shift?
+
+Crime changes shape. Petty theft drops, because a new phone costs the same as a sandwich. What rises is stranger. Your kids get farmed for clicks by people who used to have real jobs. Addiction becomes an industry.
+
+Weekends stop meaning anything. When you worked five days, Saturday felt earned. When every day is Saturday, none of them do. Retirement goes too. The pension funds were built on wages, and there are no wages.
+
+[SCENE]
+
+Meanwhile, the map is being redrawn by who owns the compute.
+
+America and China own the data centers. That's the whole game now. Training one frontier model costs over $100 million, and the computing power needed doubles every few months. That's not an industry. That's a border.
+
+Taiwan makes around 90% of the world's most advanced chips. The Netherlands makes the machines that make the chips. One company, ASML, in one town called Veldhoven. Japan controls the specialty chemicals. These are the new oil fields.
+
+And none of it runs without power. Data centers could be eating 12% of America's electricity by 2028. If your country can't keep the lights on, you don't get to own a robot. You don't even get to rent one.
+
+A garment factory in Dhaka loses to a robot in Ohio, and there's no second offer. You don't get the cheap goods either, because the goods are cheap only in the currencies the AI economy runs on.
+
+The craziest part of this story hasn't happened yet.
+
+[SCENE]
+
+But the thing nobody priced was what work did to you besides pay you.
+
+Work was a name tag. A reason to shower. A place where someone noticed if you were late, or missing. It was the answer to "what do you do?" so you never had to sit with "who am I?"
+
+Take it away and the numbers go ugly in a way no economist modeled. Researchers tracking unemployed men found they died at roughly 20% higher rates. The cause wasn't hunger. The studies called it loss of structure and social contact.
+
+Now watch what happens to status. The surgeon, the accountant, the guy who ran the warehouse. Same income, same flat, same food. So the ranking can't come from the job anymore. It comes from followers. From who still gets invited anywhere. Some people handle that. Plenty don't. Antidepressant prescriptions climb in every country that bothered to count.
+
+And this scares governments more than the money does. People don't just need income. They need to be needed. The machines don't need anybody.
+
+So you'd expect the economy to collapse.
+
+[SCENE]
+
+But that's when the economy does something nobody predicted.
+
+It inverts.
+
+When a haircut is twenty rupees and a meal is thirty and the car drives itself and the surgical robot never sleeps, the price of almost everything falls to near zero. So the only thing left holding value is the thing a machine can't manufacture. Human attention. Trust. Presence.
+
+That's the last job left. Being a person other people actually want to be around.
+
+The shop that stays open because the woman behind the counter knows your son's name and asks about his exam. The nurse who holds your father's hand at 3 a.m. The barber who remembers your father too.
+
+You can't download that. You can't scale it. You can't make it cheaper, because the whole value is that it cost somebody their time.
+
+The people who can do it do fine. There aren't as many of them as you'd think. Everybody else becomes the new poor, and it doesn't look like poverty. The rent is free. The apartment is spotless. The food is good. Nobody's in the room.
+
+But what if the AI didn't stop at every job? What if it automated the government? That's a story for another video. Until then, watch who owns the compute.
