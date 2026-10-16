@@ -19,8 +19,10 @@ $V/pip install -q --only-binary=:all: chatterbox-tts tokenizers librosa soundfil
 $V/python -c "import torch, chatterbox.tts; print('imports OK')" || { echo "IMPORT CHECK FAILED"; exit 1; }
 echo "[fix] downloading weights (~3GB)..."
 mkdir -p $VO/weights && cd $VO/weights
-for f in model.safetensors cond_enc.pt t3_cfg.safetensors; do
+rm -f model.safetensors cond_enc.pt
+for f in ve.safetensors t3_cfg.safetensors s3gen.safetensors conds.pt tokenizer.json; do
   curl -sL --retry 5 --retry-all-errors -o "$f" "https://huggingface.co/ResembleAI/chatterbox/resolve/main/$f" || { echo "FAILED weight $f"; exit 1; }
+  sz=$(stat -c%s "$f"); [ "$sz" -gt 1000000 ] || [ "$f" = "tokenizer.json" ] || [ "$f" = "conds.pt" ] || { echo "BAD SIZE $f ($sz)"; exit 1; }
 done
 cd $VO
 chown -R vo:vo /home/vo
